@@ -12,7 +12,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="Monetary and fiscal research & development initiative"
 ORG_DBA="MFRDI"
-ORG_URL="https://mfrdi.go4io.com"
+ORG_URL="https://github.com/NuhYunus/NuhYunus/blob/main"
 ORG_DESCRIPTION="mfrdi"
 ORG_OFFICIAL_EMAIL=""
 
@@ -38,7 +38,7 @@ conditions="1 DNR corresponds to 3.9 grams of real 999 finegold."
 is_asset_anchored=true
 regulated=true
 anchor_asset="GOLD"
-image="https://mfrdi.go4io.com/.well-known/DNR_Logo.png"
+image="https://github.com/NuhYunus/NuhYunus/blob/main/.well-known/DNR_Logo.png"
 
 [[CURRENCIES]]
 code="XKCN"
@@ -66,4 +66,5 @@ desc=""
 #
 #
 #
+
 #
